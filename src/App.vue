@@ -7,11 +7,15 @@
     </div>
   </div>
 
+  <div>
+    <p class="text-xl">hi</p>
+  </div>
 </template>
 <script setup>
 
 import { onMounted, ref, watchEffect } from 'vue';
 import Navbar from "./components/Navbar.vue";
+import Sidebar from './components/Sidebar.vue';
 const isDark = ref(true)
 
 onMounted(() => {

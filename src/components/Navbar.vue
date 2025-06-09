@@ -24,7 +24,7 @@
       <div class="dropdown dropdown-end">
         <button tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
           <div class="w-10 rounded-full">
-            <img src="/home/intern/Personal/vue-dashboard/vue-dashboard-test/user.png" alt="User">
+            <img src="/home/intern/Personal/vue-dashboard/vue-dashboard-test/dashboard-with-vue/user.png" alt="User">
           </div>
         </button>
         <ul tabindex="0" class="mt-5 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box
